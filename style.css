@@ -1,0 +1,21 @@
+.nav-text {
+    gap: 20px;
+}
+a {
+    color: black;
+}
+ button {
+    background-color: #426B1F;
+    border: #426B1F solid;
+}
+.box-1 {
+    margin-left: 150px;
+    text-align: start;
+    margin-right: 200px !important;
+}
+footer {
+    margin-top: 100px !important;
+}
+.marg {
+   margin-right: 100px !important
+}
